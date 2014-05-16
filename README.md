@@ -36,9 +36,9 @@ Produce a HTML page with
 
 and with
 
-a. short description of the work done; 
-b. some interesting images of the work;
-c. links to `exercise1.py`, `exercise2.py`, etc. 
+4. short description of the work done; 
+5. some interesting images of the work;
+6. links to `exercise1.py`, `exercise2.py`, etc. 
 
 ## Exercise 1   (9/30 points)
 
