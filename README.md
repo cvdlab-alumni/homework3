@@ -42,7 +42,7 @@ and with
 
 ## Exercise 1   (9/30 points)
 
-Generate a 3D model of your apartment, detailing one block at a time;
+Generate a 3D model of your apartment, detailing one block at a time.
 
 ## Exercise 2   (9/30 points)
 
