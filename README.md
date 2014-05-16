@@ -1,4 +1,4 @@
-# Homework assignment n3
+# Homework assignment n.3
 **Computational Visual Design Lab ([CVDLab](https://github.com/cvdlab))**  
 **"Roma Tre" University, Rome, Italy**  
 **Computational Graphics 2014**
@@ -21,7 +21,8 @@ The programming assignment must be produced in Python language, using the [`Pypl
 
 ## Caveat
 
-The homework is **strictly personal**, and must be worked out by a single student. Violations will be persecuted :o) 
+The homework is **strictly personal**, and must be worked out by a single student.    
+Violations will be persecuted :o) 
 
 
 # Exercises
