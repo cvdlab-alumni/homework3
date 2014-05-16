@@ -5,7 +5,7 @@
 
 ## Introduction 
 
-This assignment is a short voyage to "Blocklandia", where both the people and the world are made of 3D blocks :o)
+This assignment is a short voyage to *"Blocklandia"*, where both the people and the world are made of 3D blocks :o)
 
 Notice that 90% of modern buildings (in Europe and Far East) are made this way.
 In case it is different, make an approximation of your home to this model.
@@ -62,7 +62,7 @@ Make an efficient version of the `sysml.diagram2cell` function, that currently i
 # Assignment delivery
 
 For each exercise you must produce a corresponding file `exercise1.py`, `exercise2.py`, etc.  
-All the .py file must be enclosed within a directory `python`. The images within a directory `images`. 
+All the `.py` file must be enclosed within a directory `python`. The images within a directory `images`. 
 Such directories must be contained in a directory entitled `2014-05-16`, pushed into the personal GitHub repository of the student: [https://github.com/cvdlab-cg/xxxxxx](https://github.com/cvdlab-cg/) where `xxxxxx` is the student ID  (matricola). 
 
 ```
