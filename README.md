@@ -1,4 +1,4 @@
-# THE DEADLINE IS DELAYED TO MAY 25 AT 7PM
+### The DEADLINE is delayed until MAY 25 AT 7PM
 
 - - -
 
